@@ -1,0 +1,11 @@
+../Core/Src/main.c:77:13:ADC_Select_VREFINT	2
+../Core/Src/main.c:91:13:ADC_Select_TEMP	2
+../Core/Src/main.c:104:7:get_ADC_readings	5
+../Core/Src/main.c:134:6:wait_push	2
+../Core/Src/main.c:147:6:wait_release	2
+../Core/Src/main.c:160:5:main	2
+../Core/Src/main.c:209:6:SystemClock_Config	4
+../Core/Src/main.c:260:13:MX_ADC1_Init	3
+../Core/Src/main.c:318:13:MX_USART2_UART_Init	5
+../Core/Src/main.c:366:13:MX_GPIO_Init	1
+../Core/Src/main.c:404:6:Error_Handler	1
